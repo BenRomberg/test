@@ -1,11 +1,3 @@
 # test
 
-first edit
-
-second
-
-third
-
-fourth
-
-fifth
+single commit
