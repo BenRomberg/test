@@ -8,7 +8,3 @@ asfsaf
   what happens  to tabs  ?
 asfasfddd
 new edit
-new edit
-new edit
-another edit
-another edit
